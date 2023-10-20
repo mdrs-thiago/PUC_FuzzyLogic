@@ -20,7 +20,7 @@ Fuzzy systems play a vital role in various domains, including artificial intelli
 
 This repository includes the following:
 
-1. **[Hands-on #01](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Hands-on%20%2301%20-%20Fuzzy%20System.ipynb) - ** Python Notebook file containing the basic usage of scikit-fuzzy library.
+1. **[Hands-on #01](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Hands-on%20%2301%20-%20Fuzzy%20System.ipynb) -** Python Notebook file containing the basic usage of scikit-fuzzy library.
 
 2. **[Hands-on #02](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Hands-on%20%2302%20-%20Control.ipynb) -** Python Noteboon file contaning classic control examples using scikit-fuzzy and OpenAI Gym. This file also shows a simple fuzzy-genetic approach for control optimization. 
 
