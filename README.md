@@ -22,7 +22,9 @@ This repository includes the following:
 
 1. **[Hands-on #01](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Hands-on%20%2301%20-%20Fuzzy%20System.ipynb) -** Python Notebook file containing the basic usage of scikit-fuzzy library.
 
-2. **[Hands-on #02](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Hands-on%20%2302%20-%20Control.ipynb) -** Python Noteboon file contaning classic control examples using scikit-fuzzy and OpenAI Gym. This file also shows a simple fuzzy-genetic approach for control optimization. 
+2. **[Hands-on #02](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Hands-on%20%2302%20-%20Control.ipynb) -** Python Noteboon file contaning classic control examples using scikit-fuzzy and OpenAI Gym. This file also shows a simple fuzzy-genetic approach for control optimization.
+   
+3. **[Hands-on #03](https://github.com/mdrs-thiago/PUC_FuzzyLogic/tree/main/Aula%20MATLAB) -** Folder for FIS using MATLAB + Tank Controller example. 
 
 ## Getting Started
 
@@ -37,6 +39,10 @@ We welcome contributions from the community to improve and expand this repositor
 
 ## License
 This repository is licensed under the MIT License, which means you are free to use, modify, and distribute the materials for educational and non-commercial purposes. Please read the full license for more details.
+
+## Aditional Information
+
+If you can't load the MATLAB files, please use the following URL https://drive.google.com/drive/folders/1pO0XFgNkyxgedLPTo7GsioFRr6B524Ln?usp=sharing
 
 We hope you find this repository valuable and enjoy your exploration of fuzzy systems!
 
