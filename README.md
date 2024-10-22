@@ -2,11 +2,11 @@
 
 Welcome to the Fuzzy System Lectures hands-on repository at PUC-Rio!
 
-This repository contains resources and materials related to the Fuzzy System lectures at Pontifical Catholic University of Rio de Janeiro. Whether you're a student looking to enhance your understanding of fuzzy systems or an enthusiast eager to explore this exciting field, you'll find a variety of practical materials and examples to get you started.
+This repository contains resources and materials related to the Fuzzy System lectures at the Pontifical Catholic University of Rio de Janeiro. Whether you're a student looking to enhance your understanding of fuzzy systems or an enthusiast eager to explore this exciting field, you'll find a variety of practical materials and examples to get you started.
 
 ## UPDATE 2024-2
 
-For post-graduate students in 2024-2, the final activity can be found at this [Google Drive link](https://drive.google.com/drive/folders/1wrgorqSYuWwoSd3KNFd5T_nIvIHxuqBX?usp=sharing).
+For post-graduate students in 2024-2, the final activity can be found at this [Google Drive link](https://drive.google.com/drive/u/0/folders/1p3zEdkSZSoeOmtplSQJ1Orfxeh7H37WK).
 
 ## Table of Contents
 
