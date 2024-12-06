@@ -6,6 +6,8 @@ This repository contains resources and materials related to the Fuzzy System lec
 
 ## UPDATE 2024-2
 
+The exam grades are now available at the following [link](https://docs.google.com/spreadsheets/d/17XpVMwlfogHFSRzY1HjQcuAMfcWo6JayY_ATYw-w1Yc/edit?usp=sharing). Please submit a request to gain access to the spreadsheet. As students submit their assignments, the grades will be updated.
+
 For the ICA students in 2024-2, the final activity can be found in this [repo](https://github.com/mdrs-thiago/PUC_FuzzyLogic/blob/main/Trabalho%202024-2_v2.pdf).
 
 For post-graduate students in 2024-2, the final activity can be found at this [Google Drive link](https://drive.google.com/drive/u/0/folders/1p3zEdkSZSoeOmtplSQJ1Orfxeh7H37WK).
